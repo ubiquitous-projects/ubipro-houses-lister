@@ -1,11 +1,11 @@
 {
     "name": "ubipro-houses-lister",
-    "version": "1.0.0",
-    "description": "",
+    "version": "1.0.1",
+    "description": "A Firebase and React based app for quickly finding and listing houses up for sale, lease, or rent",
     "private": true,
     "scripts": {
-        "start": "react-scripts start",
-        "build": "react-scripts build",
+        "dev": "react-scripts start",
+        "prod": "react-scripts build",
         "test": "react-scripts test",
         "eject": "react-scripts eject"
     },
